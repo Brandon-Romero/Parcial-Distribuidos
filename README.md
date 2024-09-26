@@ -23,6 +23,8 @@ Example 1:
 Example 2: 
 `http://localhost:8081/animal/all`
 
+Example 3: 
+`http://localhost:8081/animal/numberByCategory`
 
 
 ## Compilation
