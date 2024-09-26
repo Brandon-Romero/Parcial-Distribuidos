@@ -1,0 +1,2 @@
+# Parcial-Distribuidos
+documentos parcial 
